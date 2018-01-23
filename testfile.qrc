@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>example1-input.gbx</file>
+    </qresource>
+</RCC>

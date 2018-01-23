@@ -1,0 +1,10 @@
+#ifndef PARSEGERBER_H
+#define PARSEGERBER_H
+
+typedef struct file
+{
+    QFile* file;
+    char* 
+}fileinfo;
+
+#endif // PARSEGERBER_H
